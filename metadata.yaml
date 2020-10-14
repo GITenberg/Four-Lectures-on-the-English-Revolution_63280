@@ -1,0 +1,35 @@
+_repo: Four-Lectures-on-the-English-Revolution_63280
+_version: 0.0.1
+alternative_title: 4 Lectures on the English Revolution
+creator:
+  author:
+    agent_name: Green, Thomas Hill
+    alias: Green, T. H. (Thomas Hill)
+    birthdate: 1836
+    deathdate: 1882
+    gutenberg_agent_id: '9557'
+    url: http://www.gutenberg.org/2009/agents/9557
+    wikipedia: https://en.wikipedia.org/wiki/T._H._Green
+  editor:
+    agent_name: Nettleship, Richard Lewis
+    alias: Nettleship, R. L. (Richard Lewis)
+    birthdate: 1846
+    deathdate: 1892
+    gutenberg_agent_id: '51661'
+    url: http://www.gutenberg.org/2009/agents/51661
+    wikipedia: https://en.wikipedia.org/wiki/R._L._Nettleship
+description: ''
+gutenberg_issued: '2020-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Puritan Revolution, 1642-1660'
+- GITenberg
+title: Four Lectures on the English Revolution
+url: http://www.gutenberg.org/ebooks/63280
