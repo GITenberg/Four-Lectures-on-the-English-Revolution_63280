@@ -1,6 +1,9 @@
 _repo: Four-Lectures-on-the-English-Revolution_63280
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 4 Lectures on the English Revolution
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Thomas Hill
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51661
     wikipedia: https://en.wikipedia.org/wiki/R._L._Nettleship
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63280#Four-Lectures-on-the-English-Revolution
 gutenberg_issued: '2020-09-23'
 gutenberg_type: Text
 identifiers:
